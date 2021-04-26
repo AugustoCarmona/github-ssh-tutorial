@@ -1,7 +1,10 @@
 # How to set up SSH keys and connect them to GitHub
-[Check the original post](https://dev.to/augustocarmona/how-to-set-up-ssh-keys-and-connect-them-to-github-3136 "Check the original post")
-----
+![](https://i.ibb.co/TYzR30S/ssh-big.png)
 
+[Check the original post!](https://dev.to/augustocarmona/how-to-set-up-ssh-keys-and-connect-them-to-github-3136 "Check the original post")
+
+----
+ 
 ## Ever wonder what SSH is for?
 ----
 Every time we connect to GitHub, to be able to do a push from our repository we have to enter our password. But this has two problems: the first is that we always have to do it (every time we need to git push) -if you are going to use long and complicated passwords, like me, it can be quite annoying-, and the second is that in principle, we are working with secure connections (https).
