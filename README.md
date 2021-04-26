@@ -100,7 +100,7 @@ After this, go to your GitHub profile, to the `settings` tab,  option ` SSH and 
 
 ![](https://i.ibb.co/PtBczfH/0002-2.jpg)
 
-Hit `Add SSH Key`, enter your password and voila!
+Hit `Add SSH Key`, enter your password et voila!
 
 ![](https://i.ibb.co/4TW8s8v/0001.jpg)
 
